@@ -9,7 +9,7 @@
 
     <artifactId>s-match-utils</artifactId>
     <packaging>jar</packaging>
-    <version>2.0.0-SNAPSHOT</version>
+    <version>2.0.0-NUSM-SNAPSHOT</version>
     <name>S-Match Utils</name>
     <description>S-Match Utils contains various utils for S-Match (data converters, GUI, CLI, legacy classes, etc).</description>
 
@@ -127,7 +127,7 @@
         <dependency>
             <groupId>it.unitn.disi</groupId>
             <artifactId>s-match-spsm</artifactId>
-            <version>2.0.0-SNAPSHOT</version>
+            <version>2.0.0-NUSM-SNAPSHOT</version>
         </dependency>
 
         <dependency>
